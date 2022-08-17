@@ -4,9 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
 
 .header {
     padding: 20px;
@@ -41,6 +38,10 @@ body {
     margin-left: 25px;
 }
 
+body {
+    background-color: #d9dcd6;
+
+}
 a {
     color: #ffffff;
     text-decoration: none;
@@ -64,7 +65,7 @@ p {
     float: left;
     margin-right: 25px;
 }
-/* Drying out code, consolidated the lone below this, but not yet deleted
+/* Drying out code, consolidated & deleted theline below this
 
 .float-right {
     float: right;
@@ -94,7 +95,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Drying out code, consolidated the 2 lines below this, but not yet deleted
+/* Drying out code, consolidated & the 2 lines below this
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -112,7 +113,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Drying out code, consolidated the 2 lines below this, but not yet deleted
+/* Drying out code, consolidated & hid the 2 lines below this
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -133,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-/* Drying out code, consolidated the 2 lines below, but not yet deleted
+/* Drying out code, consolidated & hid the 2 lines below this
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -157,10 +158,10 @@ p {
     color: #ffffff;
 }
 
-/* Drying out code, consolidated the 2 lines below, but not yet deleted
+/* Drying out code, consolidated & hidthe 2 lines below, 
 .online-reputation-management {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 50px; 
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -182,7 +183,7 @@ p {
     max-height: 200px;
 }
 
-/* Drying out code, consolidated the 2 lines below, but not yet deleted
+/* Drying out code, consolidated the 2 lines below
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -192,11 +193,14 @@ p {
 } */
 
 .search-engine-optimization h2,
-.online-reputation-management h2 {
-    margin-bottom: 20px;
+.online-reputation-management h2
+.social-media-marketing h2
+{
+margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Drying out code, consolidated & hid the 2 lines below
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -205,7 +209,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
