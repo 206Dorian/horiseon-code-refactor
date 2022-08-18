@@ -1,12 +1,13 @@
 # horiseon-code-refactor
-# <Your-Project-Title>
+# <206Dorian horiseon-code-refactor>
 
-## Desciption
+## Description
 Provide a short description
 -what was your motivation
--why did you build this project?
--what problem did it solve?
--what did you learn?
+
+My motivation for this project was first and foremost to update and "DRY" the code to make it easier to read and process for future users and anyone else updating the code next. 
+
+Also I really am fascinated by coding and seeing how different websites and apps work, I love problem solving/reverse engineering problems so this was a perfect project.
 
 
 ## Installation
